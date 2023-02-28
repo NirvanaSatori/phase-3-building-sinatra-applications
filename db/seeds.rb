@@ -1,4 +1,6 @@
+require 'faker'
 puts "🌱 Seeding data..."
+
 
 # Make 10 users
 10.times do
